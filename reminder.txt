@@ -1,0 +1,2 @@
+!recurring Friday 0:00 It is Friday today!
+!recurring Thursday 23:25 This is the almost friday recurring
