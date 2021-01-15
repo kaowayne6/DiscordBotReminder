@@ -1,7 +1,7 @@
 require('dotenv').config();
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const TOKEN = "Nzk5NTEwMTE0NDI3NjAwOTE2.YAEn0Q.gdqM_DR9Pb9MfX1jr3hbAjubqf0";
+const TOKEN = "Nzk5NTEwMTE0NDI3NjAwOTE2.YAEn0Q.NgXGHq2LfifWqZcEFdYSwhK7wWc";
 var CronJob = require('cron').CronJob;
 var fs = require("fs");
 var defaultChannel;
