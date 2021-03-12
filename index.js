@@ -312,14 +312,6 @@ function makeRecurring(disCommand, msg, onStart){
   }
 }
 
-//**Reminders should remind when start and 10 minutes before deadline */
-
-//TODO: Make error message better
-//TODO: Add help
-//TODO: listreminder command
-
-//TODO: add delete reminder (maybe)
-
 //List of commands
 //!help
 //!recurring --> creates a recurring reminder
